@@ -484,9 +484,13 @@ Student ID | Movie | Year of Release
 1910055 | Interstellar | 2014
 1910055 | War for the Planet of the Apes | 2017
 1910055 | Avatar | 2009
+1615900 | Resident Evil: Damnation | 2012 
+1615900 | Resident Evil: Degeneration | 2008
+1615900 | Resident Evil: Vendetta | 2017
+1615900 | Ip Man 3 | 2015 
+1615900 | Predators | 2010 
 1834210 | Avengers: End Game | 2018
 1834210 | Avengers: Infinity War | 2017
 1834210 | Avengers: Civil War | 2016
 1834210 | Avengers: Age of Ultron | 2015
 1834210 | The Avengers | 2012
-
