@@ -444,3 +444,8 @@ Student ID | Movie | Year of Release
 1945237 | The Joker | 2019
 1945237 | Wardogs | 2016
 1945237 | The Wolf Of Wall Street | 2013
+1940435 | Joker | 2019
+1940435 | The Devil All The Time | 2020
+1940435 | Indiana Jones: Raiders of The Lost Ark | 1981
+1940435 | Ford v Ferrari | 2019
+1940435 | Django Unchained | 2012
