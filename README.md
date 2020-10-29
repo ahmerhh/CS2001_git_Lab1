@@ -434,3 +434,8 @@ Student ID | Movie | Year of Release
 1945237 | The Joker | 2019
 1945237 | Wardogs | 2016
 1945237 | The Wolf Of Wall Street | 2013
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
