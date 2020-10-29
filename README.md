@@ -489,3 +489,8 @@ Student ID | Movie | Year of Release
 1615900 | Resident Evil: Vendetta | 2017
 1615900 | Ip Man 3 | 2015 
 1615900 | Predators | 2010 
+1834210 | Avengers: End Game | 2018
+1834210 | Avengers: Infinity War | 2017
+1834210 | Avengers: Civil War | 2016
+1834210 | Avengers: Age of Ultron | 2015
+1834210 | The Avengers | 2012
