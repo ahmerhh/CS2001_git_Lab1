@@ -469,6 +469,12 @@ Student ID | Movie | Year of Release
 1945237 | The Joker | 2019
 1945237 | Wardogs | 2016
 1945237 | The Wolf Of Wall Street | 2013
+1940435 | Joker | 2019
+1940435 | The Devil All The Time | 2020
+1940435 | Indiana Jones: Raiders of The Lost Ark | 1981
+1940435 | Ford v Ferrari | 2019
+1940435 | Django Unchained | 2012
+1940435 | Hateful Eight | 2015
 1911492 | Matilda | 1996
 1911492 | Oceans Eleven | 2001
 1911492 | Troy | 2004
@@ -485,6 +491,12 @@ Student ID | Movie | Year of Release
 1910055 | War for the Planet of the Apes | 2017
 1910055 | Avatar | 2009
 1615900 | Resident Evil: Damnation | 2012
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1615900 | Resident Evil: Damnation | 2012 
 1615900 | Resident Evil: Degeneration | 2008
 1615900 | Resident Evil: Vendetta | 2017
 1615900 | Ip Man 3 | 2015
@@ -499,3 +511,4 @@ Student ID | Movie | Year of Release
 1839606 | The Joker | 2019
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
+1834210 | The Avengers | 2012
