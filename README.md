@@ -29,7 +29,7 @@ Student ID | Movie | Year of Release
 1945102| Wild Child |2008
 1945102|Game Plan|2008
 1945102|Avatar|2010
-1945102|Avengers|2019 
+1945102|Avengers|2019
 1945102|Hotel for dogs|2010
 1923290|The Shawshank Redemption|1994
 1923290|The Godfather|1972
@@ -361,14 +361,14 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
-1908976 | Tokyo Drift | 2005 
+1908976 | Tokyo Drift | 2005
 1908976 | The Wolf of Wall Street | 2013
 1908976 | Avengers: End Game | 2019
 1908976 | Inception | 2010
 1908976 | Fast & Furious 5 | 2011
-1812385 | Fast & Furious 7 | 2015 
-1812385 | Logan | 2017 
-1812385 | The Bank Job | 2008 
+1812385 | Fast & Furious 7 | 2015
+1812385 | Logan | 2017
+1812385 | The Bank Job | 2008
 1812385 | The Dark Knight | 2008
 1812385 | Avengers Infinity war | 2018
 1805927 | Your Name	| 2016
@@ -423,7 +423,7 @@ Student ID | Movie | Year of Release
 1943699 |Mission Impossible 2 | 2000
 1943699 |Mission Impossible 3 | 2006
 1943699 |Mission Impossible 4 | 2011
-1943699 |Age of Ultron| 2015 
+1943699 |Age of Ultron| 2015
 1814493 | One Piece Film: Stampede | 2019
 1814493 | Mama mia! | 2008
 1814493 | Pirates of the Caribbean | 2007
@@ -450,10 +450,10 @@ Student ID | Movie | Year of Release
 1910918 | Avatar | 2009
 1910918 | Inside Out | 2015
 1911252 | Batman Begins | 2005
-1911252 | Avengers Endgame | 2019 
-1911252 | Random movie | 2003 
-1911252 | Random movie | 2004 
-1911252 | Random movie | 2005 
+1911252 | Avengers Endgame | 2019
+1911252 | Random movie | 2003
+1911252 | Random movie | 2004
+1911252 | Random movie | 2005
 1937814 | Good Boys | 2019
 1937814 | Superbad | 2007
 1937814 | The Platform | 2019
@@ -490,6 +490,7 @@ Student ID | Movie | Year of Release
 1910055 | Interstellar | 2014
 1910055 | War for the Planet of the Apes | 2017
 1910055 | Avatar | 2009
+1615900 | Resident Evil: Damnation | 2012
 1919716 | Fast and Furious 8 | 2017
 1919716 | Fast and Furious 8 | 2017
 1919716 | Fast and Furious 8 | 2017
@@ -498,10 +499,16 @@ Student ID | Movie | Year of Release
 1615900 | Resident Evil: Damnation | 2012 
 1615900 | Resident Evil: Degeneration | 2008
 1615900 | Resident Evil: Vendetta | 2017
-1615900 | Ip Man 3 | 2015 
-1615900 | Predators | 2010 
+1615900 | Ip Man 3 | 2015
+1615900 | Predators | 2010
 1834210 | Avengers: End Game | 2018
 1834210 | Avengers: Infinity War | 2017
 1834210 | Avengers: Civil War | 2016
 1834210 | Avengers: Age of Ultron | 2015
+1834210 | The Avengers | 2012
+1839606 | John Wick | 2014
+1839606 | Kung Fu Hustle| 2004
+1839606 | The Joker | 2019
+1839606 | Wardogs | 2016
+1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
