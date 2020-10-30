@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1822554| Shrek |2001
+1822554|Annabelle|2014
+1822554| Borat| 2006
+1822554| Suicide Squad| 2016
+1822554| Shark Tales| 2004
 1945102| Wild Child |2008
 1945102|Game Plan|2008
 1945102|Avatar|2010
@@ -51,6 +56,11 @@ Student ID | Movie | Year of Release
 1818316 | Very nice movie | 1994
 1818316 | Super nice movie | 1995
 1818316 | Extremely nice movie | 1996
+1906858|Captain Marvel|2019
+1906858|Avengers: End Game|2019
+1906858|Random Movie|2020
+1906858|White Chicks|2009
+1906858|Life of Pi|2012
 1929348 | Dark Knight | 2009
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
@@ -205,6 +215,11 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1910890 | Never Back Down | 2008
+1910890 | Southpaw | 2015
+1910890 | 2 fast 2 furious| 2003
+1910890 | Undisputed 2 | 2006
+1910890 | The Equalizer | 2014
 2016951 | Interstellar | 2014
 2016951 | Inception | 2010
 2016951 | Avatar | 2009
@@ -424,6 +439,11 @@ Student ID | Movie | Year of Release
 1909611 | Movie 3 | 2020
 1909611 | Movie 4 | 2020
 1909611 | Movie 5 | 2020
+1918375 | The Martian | 2015
+1918375 | Interstellar | 2014
+1918375 | Gladiator | 2000
+1918375 | Pokémon: Lucario And The Mystery of Mew | 2005
+1918375 | Dangal | 2016
 1910918 | Avengers:Age of Ultron | 2015
 1910918 | Avengers:End Game | 2019
 1910918 | Avengers:Infinity War | 2018
@@ -434,6 +454,11 @@ Student ID | Movie | Year of Release
 1911252 | Random movie | 2003 
 1911252 | Random movie | 2004 
 1911252 | Random movie | 2005 
+1937814 | Good Boys | 2019
+1937814 | Superbad | 2007
+1937814 | The Platform | 2019
+1937814 | Exam | 2009
+1937814 | 22 Jump Street | 2014
 1903966 | Pulp Fiction | 1994
 1903966 | Django Unchained | 2012
 1903966 | Uncut Gems | 2019
@@ -450,3 +475,33 @@ Student ID | Movie | Year of Release
 1940435 | Ford v Ferrari | 2019
 1940435 | Django Unchained | 2012
 1940435 | Hateful Eight | 2015
+1911492 | Matilda | 1996
+1911492 | Oceans Eleven | 2001
+1911492 | Troy | 2004
+1911492 | Housefull 4 | 2019
+1911492 | Life of Pi | 2012
+1816426 | Hitch | 2005
+1816426 | Now you see me | 2013
+1816426 | Captain America: The winter soldier|2014
+1816426 | The Dark knight | 2008
+1816426 | The Dark Knight rises | 2012
+1910055 | Avengers Endgame | 2019
+1910055 | A Quiet Place | 2018
+1910055 | Interstellar | 2014
+1910055 | War for the Planet of the Apes | 2017
+1910055 | Avatar | 2009
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1615900 | Resident Evil: Damnation | 2012 
+1615900 | Resident Evil: Degeneration | 2008
+1615900 | Resident Evil: Vendetta | 2017
+1615900 | Ip Man 3 | 2015 
+1615900 | Predators | 2010 
+1834210 | Avengers: End Game | 2018
+1834210 | Avengers: Infinity War | 2017
+1834210 | Avengers: Civil War | 2016
+1834210 | Avengers: Age of Ultron | 2015
+1834210 | The Avengers | 2012
