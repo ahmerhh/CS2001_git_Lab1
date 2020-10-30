@@ -484,6 +484,11 @@ Student ID | Movie | Year of Release
 1910055 | Interstellar | 2014
 1910055 | War for the Planet of the Apes | 2017
 1910055 | Avatar | 2009
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
+1919716 | Fast and Furious 8 | 2017
 1615900 | Resident Evil: Damnation | 2012 
 1615900 | Resident Evil: Degeneration | 2008
 1615900 | Resident Evil: Vendetta | 2017
